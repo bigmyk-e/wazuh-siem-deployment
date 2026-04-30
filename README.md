@@ -161,4 +161,4 @@ The complete step-by-step deployment guide is available in [`wazuh-siem-deployme
 
 -----
 
-*Part of my cybersecurity portfolio — [github.com/Bigmykeb](https://github.com/Bigmykeb)*
+*Part of my cybersecurity portfolio — [github.com/Bigmykeb](https://github.com/bigmyk-e)*
